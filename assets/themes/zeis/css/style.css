@@ -19,7 +19,7 @@ body {
 #navigation {
   margin: 0 auto;
   padding: 15px 0;
-  width: 610px;
+  width: 650px;
 }
 
 #navigation a:hover {
@@ -62,12 +62,12 @@ body {
   margin: 0 auto;
   padding-top: 70px;
   padding-bottom: 50px;
-  width: 610px;
+  width: 650px;
   border-bottom: 4px solid #e65c7c;
 }
 
 header {
-  width: 610px;
+  width: 650px;
 }
 
 #blog-title {
@@ -131,7 +131,7 @@ footer {
   margin: 0 auto;
   display: block;
   padding: 20px 0 30px 0;
-  width: 610px;
+  width: 650px;
   clear: both;
   color: #999;
 }
@@ -190,6 +190,18 @@ footer a:hover {
   margin: 20px 0;
   clear: both;
   display: block;
+}
+
+#tag_list ul{
+  list-style-type: none;
+}
+
+#tag_list li{
+  display:inline;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #888;
+  font-size:12px;
 }
 
 a {
